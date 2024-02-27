@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 ```javascript
 class WhoAmI {
@@ -11,7 +11,7 @@ class WhoAmI {
     }
 
     introduce() {
-        console.log(`¡Hola! Soy ${this.user} 👋, estudiante de ${this.education} 🎓.`);
+        console.log(`¡Hola! Soy ${this.user} 👋🏻, estudiante de ${this.education} 🎓.`);
         console.log("Aquí tienes un poco más sobre mí:");
         console.log("- Lenguajes: " + this.languages.join(", ") + " 💻");
         console.log("- Habilidades: " + this.skills.join(", ") + " 🔧");
