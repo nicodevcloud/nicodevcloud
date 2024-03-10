@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nicolas and I'm a Cloud Computing Student, from Perú</p>
+<p align="left">My name is Nicolas Ventosilla and I'm a Cloud Computing Student, from Perú</p>
 
 ###
 
